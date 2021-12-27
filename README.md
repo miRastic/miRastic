@@ -7,3 +7,5 @@
 - 💞️ I’m looking to collaborate on AutoMation using Python to help Biological Sciences Scholars.
 
 - 📫 Want to reach me? Drop an email on CTRLCOLAB@gmail.com
+
+- Doing PhD in Cancer Biology.
